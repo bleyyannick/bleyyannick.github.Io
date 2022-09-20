@@ -16,7 +16,7 @@ body {
     font-size: 20px;
 }
 #bloc-5-cta p {
-    font-size: 28px;
+    font-size: 23px;
 }
 
 
@@ -29,6 +29,11 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+}
+
+.social{
+    list-style-type: none;
+    padding: 0;
 }
 
 #page-loading-blocs-notifaction {
@@ -771,7 +776,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #CC3636;
     padding: 40px 40px 40px 40px;
 }
 
@@ -840,7 +845,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
